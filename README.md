@@ -1,16 +1,70 @@
-## Hi there 👋
+👋 Hi there! Glad you stopped by  
 
-<!--
-**nehadarira12/nehadarira12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Neha Kumari  
+**Senior QA Automation Engineer | ISTQB® (CTFL)**  
 
-Here are some ideas to get you started:
+🚀 Automation expert with 5+ years of experience building **scalable, reliable, and CI-ready test automation frameworks** across web, mobile, and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 UAE | 🌍 Open to Senior QA / Automation Roles  
+
+---
+
+### 🧪 What I Do
+- Design and maintain **end-to-end automation frameworks**
+- Automate **Web, Mobile, API, and Performance** test suites
+- Integrate automation into **CI/CD pipelines**
+- Drive **quality strategy**, not just test execution
+
+---
+
+### 🛠️ Technical Skills
+
+**Automation & Testing**  
+- Playwright | Cypress | Selenium | Appium  
+- API Automation (Postman, REST, ReqRes)  
+- Performance Testing (JMeter)
+
+**Languages**  
+- Java | TypeScript | JavaScript | Python  
+
+**Frameworks & Concepts**  
+- Page Object Model (POM)  
+- BDD / Data-Driven Testing  
+- Cross-browser & Parallel Execution  
+
+**CI/CD & Tools**  
+- Git | GitHub Actions | Jenkins  
+- Docker (basic)  
+- Allure & HTML Reporting  
+
+---
+
+### 📂 Featured Projects
+
+🔹 **Playwright Automation Framework**  
+👉 https://github.com/nehadarira12/playwright-automation-framework  
+
+🔹 **Cypress Automation Framework**  
+👉 https://github.com/nehadarira12/cypress-automation-framework  
+
+🔹 **API Automation (ReqRes)**  
+👉 https://github.com/nehadarira12/qa-api-automation-reqres  
+
+🔹 **Load & Performance Testing**  
+👉 https://github.com/nehadarira12/qa-load-test  
+
+---
+
+### 🏢 Domain Experience
+- Health & Insurance  
+- FinTech  
+- POS Systems  
+- Cloud-based Platforms  
+
+---
+
+### 📫 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-kumari-istqb-ctfl-56b51a139/
+- 🧑‍💻 GitHub: https://github.com/nehadarira12
+
+✨ *Passionate about quality, automation, and building systems that scale.*
