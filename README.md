@@ -3,11 +3,11 @@
 # 👩‍💻 Neha Kumari
 ## Senior QA Automation Engineer | ISTQB® (CTFL)
 
-🚀 **Automation expert with 5+ years of experience**  
+🚀 **Automation expert with 7+ years of experience**  
 Building **scalable, reliable, and CI-ready** test automation frameworks  
 Across **Web • Mobile • APIs**
 
-📍 **UAE** | 🌍 **Open to Senior QA / Automation Roles**
+📍 **Remote** | 🌍 **Open to Senior QA / Automation Roles**
 
 ---
 
