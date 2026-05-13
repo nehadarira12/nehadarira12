@@ -1,76 +1,67 @@
-# 👋 Hi there! Glad you stopped by
+# 👋 Hi, I'm Neha Kumari
 
-# 👩‍💻 Neha Kumari
-## Senior QA Automation Engineer | ISTQB® (CTFL)
+## Senior QA Automation Engineer | ISTQB® Certified (CTFL)
 
-🚀 **Automation expert with 7+ years of experience**  
-Building **scalable, reliable, and CI-ready** test automation frameworks  
-Across **Web • Mobile • APIs**
+🚀 5+ years building scalable, CI-ready automation frameworks
+across **Web · Mobile · APIs** in healthcare and fintech
 
-📍 **Remote** | 🌍 **Open to Senior QA / Automation Roles**
+📍 Dubai, UAE  |  🌍 Open to remote and on-site roles ( Saudi Arabia)
 
 ---
 
 ## 🧪 What I Do
-- Design and maintain **end-to-end automation frameworks**
-- Automate **Web, Mobile, API, and Performance** test suites
-- Integrate automation into **CI/CD pipelines**
-- Drive **quality strategy**, not just test execution
+
+- Design and own **end-to-end QA strategies** not just test execution
+- Build automation frameworks from scratch: Playwright, Appium, Selenium, Cypress
+- Validate **AI-powered and Voice AI features** in regulated healthcare environments
+- Integrate test suites into **CI/CD pipelines** via GitHub Actions and Jenkins
+- Test across **web, mobile (Android/iOS), API, and performance** layers
 
 ---
 
-## 🛠️ Technical Skills
+## 🏥 Domain Experience
 
-### Automation & Testing
-- Playwright | Cypress | Selenium | Appium
-- API Automation (Postman, REST, ReqRes)
-- Performance Testing (JMeter)
+- **Healthcare** — Patient-facing Voice AI platform (Foundation Health, USA)
+- **Fintech** — Mobile and web automation (CreditBook, ForeePay)
+- **SaaS** — Cross-browser web automation and API testing
 
-### Languages
-- Java | TypeScript | JavaScript | Python
+---
 
-### Frameworks & Concepts
-- Page Object Model (POM)
-- BDD / Data-Driven Testing
-- Cross-browser & Parallel Execution
+## 🛠️ Tech Stack
 
-### CI/CD & Tools
-- Git | GitHub Actions | Jenkins
-- Docker (basic)
-- Allure & HTML Reporting
+| Area | Tools |
+|---|---|
+| Automation | Playwright · Appium · Selenium · Cypress |
+| API & Performance | Postman · JMeter · K6 · Charles Proxy |
+| Languages | Java · TypeScript · JavaScript · Python |
+| CI/CD & Cloud | GitHub Actions · Jenkins · Docker · GCP |
+| Test Management | Jira · Xray · TestRail · Azure DevOps |
+| Database | SQL query writing and data validation |
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Playwright Automation Framework
-Scalable E2E framework using TypeScript, POM, parallel execution, and reporting  
-👉 https://github.com/nehadarira12/playwright-automation-framework
+### 🔹 [Playwright Web Automation Framework](https://github.com/nehadarira12/demowebshop-playwright-automation)
+TypeScript · Page Object Model · Cross-browser · GitHub Actions CI
 
-### 🔹 Cypress Automation Framework
-Modern Cypress setup with reusable utilities and clean architecture  
-👉 https://github.com/nehadarira12/cypress-automation-framework
+### 🔹 [Cypress Automation Framework](https://github.com/nehadarira12/cypress-automation-framework)
+JavaScript · Reusable utilities · Regression suite
 
-### 🔹 API Automation (ReqRes)
-API test suite covering positive, negative, and edge cases  
-👉 https://github.com/nehadarira12/qa-api-automation-reqres
+### 🔹 [API Testing with Postman & Newman](https://github.com/nehadarira12/qa-api-automation-reqres)
+REST API validation · Positive, negative and edge case coverage
 
-### 🔹 Load & Performance Testing
-JMeter-based performance testing scenarios  
-👉 https://github.com/nehadarira12/qa-load-test
+### 🔹 [Performance Testing with JMeter](https://github.com/nehadarira12/qa-load-test)
+Load testing scenarios · Bottleneck identification
 
 ---
 
-## 🏢 Domain Experience
-- Health & Insurance
-- FinTech
-- POS Systems
-- Cloud-based Platforms
+## 📫 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/neha-kumari-qa/)
+ | 
+📧 nehakumar067@gmail.com
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/neha-kumari-istqb-ctfl-56b51a139/
-- 🧑‍💻 GitHub: https://github.com/nehadarira12
-
-✨ *Passionate about quality, automation, and building systems that scale.*
+*Passionate about quality, automation, and building systems that actually work in production.*
