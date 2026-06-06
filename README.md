@@ -42,6 +42,11 @@ across **Web · Mobile · APIs** in healthcare and fintech
 
 ## 📂 Featured Projects
 
+### 🔹 [AI Quality Engineering Framework](https://github.com/nehadarira12/ai-quality-engineering-framework)
+Python · LLM Hallucination Detection · Adversarial Testing · OWASP LLM Top 10 · Healthcare AI
+Built from real experience testing a patient-facing Voice AI platform in US healthcare.
+Covers: data validation, LLM evaluation, agent output validation, adversarial testing.
+
 ### 🔹 [Playwright Web Automation Framework](https://github.com/nehadarira12/demowebshop-playwright-automation)
 TypeScript · Page Object Model · Cross-browser · GitHub Actions CI
 
