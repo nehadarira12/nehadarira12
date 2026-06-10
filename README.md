@@ -2,7 +2,7 @@
 
 ## Senior QA Automation Engineer | ISTQB® Certified (CTFL)
 
-🚀 5+ years building scalable, CI-ready automation frameworks
+🚀 7+ years building scalable, CI-ready automation frameworks
 across **Web · Mobile · APIs** in healthcare and fintech
 
 📍 Dubai, UAE  |  🌍 Open to remote and on-site roles ( Saudi Arabia)
